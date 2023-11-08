@@ -16,7 +16,7 @@
   </a>
   <center>
     <h3>Hate writing assignments ?</h3>
-    <p>You can use my tool that can convert your provided text to a handwriiten image. 🫠</p>
+    <p>You can use this tool that can convert your provided text to a handwriiten image. 🫠</p>
 </center>
   
 </div>
