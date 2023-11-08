@@ -1,18 +1,30 @@
 <p align="center">
-<img alt="Text-to-handwriting title image" src="https://res.cloudinary.com/saurabhdaware/image/upload/w_400/v1586015094/saurabh2019/text-to-handwriting-title.png" /> 
-<br/><b><a href="https://saurabhdaware.github.io/text-to-handwriting/">https://saurabhdaware.github.io/text-to-handwriting/</a></b><br/><br/><img alt="NPM Version" src="https://img.shields.io/github/package-json/v/saurabhdaware/text-to-handwriting?style=for-the-badge&labelColor=black&logo=npm&color=darkred" /> <a href="#contributing"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a> <br/><a href="https://github.com/saurabhdaware/text-to-handwriting/blob/master/LICENSE"> <img alt="GitHub License MIT" src="https://img.shields.io/github/license/saurabhdaware/text-to-handwriting?style=for-the-badge&labelColor=black&logo=github"> </a><a href="https://twitter.com/saurabhcodes"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/saurabhcodes?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@saurabhcodes"></a><br/><br/> I hate writing assignments so I made this tool that converts text to an image that looks like handwriting😛
-
+<img alt="Text-to-handwriting title image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJrMR1c_ZUbHZJQgTB9HyXLjrwsIeIDkuMTw&usqp=CAU" /> 
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:udhaybhat00@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/udhaybhat" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+  <center>
+    <h3>Hate writing assignments ?</h3>
+    <p>You can use my tool that can convert your provided text to a handwriiten image. 🫠</p>
+</center>
+  
+</div>
+ <hr/>
 </p>
 
-*Note: This project is now archived. Read the announcement at https://github.com/saurabhdaware/text-to-handwriting/issues/138*
 
 ## 🌠 Output
 
 <img width="400" alt="Sample image of output" src="sample.jpeg" />
-
-## 🤗 Contributing
-
-Checkout [Contribution Guide](CONTRIBUTING.md) for local setup and contribution guide.
 
 ## 📚 Libraries used
 
@@ -21,9 +33,20 @@ Checkout [Contribution Guide](CONTRIBUTING.md) for local setup and contribution 
 - [cypress](https://github.com/cypress-io/cypress) - Testing Library
 - [serve](https://github.com/zeit/serve) - Start local server
 
----
+<hr/>
+<h2 align="center">🙋‍♂️ Support</h2>
 
-[<img alt="Buy me a Coffee Button" width=200 src="https://c5.patreon.com/external/logo/become_a_patron_button.png">](https://www.patreon.com/bePatron?u=31891872) &nbsp; [<img alt="Buy me a Coffee Button" width=200 src="https://cdn.buymeacoffee.com/buttons/default-yellow.png">](https://www.buymeacoffee.com/saurabhdaware)
 
-Bye!
-Have fun 🦄
+<h3 align="center">💙 If you like this project, give it a ⭐ and share it with your friends!</h3>
+<br>
+<div align="center">
+    <a href="https://www.buymeacoffee.com/udhaybhat">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="udhaybhat" height="50" width="210">
+    </a>
+</div>
+
+<hr>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
+<br/>
