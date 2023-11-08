@@ -1,6 +1,6 @@
 <p align="center">
 <img alt="Text-to-handwriting title image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJrMR1c_ZUbHZJQgTB9HyXLjrwsIeIDkuMTw&usqp=CAU" /> 
- <br/><b><a href="https://saurabhdaware.github.io/text-to-handwriting/">https://saurabhdaware.github.io/text-to-handwriting/</a></b><br/><br/>
+ <br/><b><a href="https://udhaybhat00.github.io/text_to_handwriting/">https://udhaybhat00.github.io/text_to_handwriting//</a></b><br/><br/>
  </p>
  </div>
  
