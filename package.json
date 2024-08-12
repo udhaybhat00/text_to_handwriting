@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saurabhdaware/text-to-handwriting.git"
+    "url": "git+https://github.com/udhaybhat00/text-to-handwriting.git"
   },
   "keywords": [],
-  "author": "Saurabh Daware <saurabhdaware99@gmail.com> (https://saurabhdaware.in/)",
+  "author": "Udhay Bhat <udhaybhat00@gmail.com> (https://github.com/udhaybhat00/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/saurabhdaware/text-to-handwriting/issues"
+    "url": "https://github.com/udhaybhat00/text-to-handwriting/issues"
   },
-  "homepage": "https://github.com/saurabhdaware/text-to-handwriting#readme",
+  "homepage": "https://github.com/udhaybhat00/text-to-handwriting#readme",
   "devDependencies": {
     "cypress": "^4.4.1",
     "eslint": "^7.0.0",
